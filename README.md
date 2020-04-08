@@ -1,2 +1,2 @@
 # dotfiles
- Configuration File for Unix shells
+ Configuration Files for Unix shells
