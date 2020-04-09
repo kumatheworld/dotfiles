@@ -1,0 +1,14 @@
+set autoindent
+set cutfromcursor
+set multibuffer
+set nohelp
+set nowrap
+set regexp
+set smooth
+set suspend
+unset backup
+unbind ^J main
+
+## you may uncomment below for python
+# set tabsize 4
+# set tabstospaces
