@@ -1,0 +1,8 @@
+# don't forget to add "stty -ixon" to .bashrc to disable default Ctrl-s
+escape ^Ss
+startup_message off
+caption string "%{03} "
+redition so =
+vbell off
+altscreen on
+defscrollback 10000
