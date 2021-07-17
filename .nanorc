@@ -7,8 +7,7 @@ set regexp
 set smooth
 set suspend
 unset backup
-unbind ^J main
 
-## you may uncomment below for python
+## you may uncomment below for python, or run nano with option '-ET4'
 # set tabsize 4
 # set tabstospaces
