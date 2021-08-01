@@ -1,12 +1,13 @@
+unbind ^J main
+unbind M-J main
+unset backup
 set autoindent
 set cutfromcursor
 set multibuffer
 set nohelp
 set nowrap
 set regexp
-set smooth
 set suspend
-unset backup
 
 ## you may uncomment below for python, or run nano with option '-ET4'
 # set tabsize 4
